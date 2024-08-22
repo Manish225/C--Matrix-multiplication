@@ -1,0 +1,15 @@
+/Users/manishkumar/Projects/MatrixMultiplication2/bin/Debug/net6.0/MatrixMultiplication2
+/Users/manishkumar/Projects/MatrixMultiplication2/bin/Debug/net6.0/MatrixMultiplication2.deps.json
+/Users/manishkumar/Projects/MatrixMultiplication2/bin/Debug/net6.0/MatrixMultiplication2.runtimeconfig.json
+/Users/manishkumar/Projects/MatrixMultiplication2/bin/Debug/net6.0/MatrixMultiplication2.dll
+/Users/manishkumar/Projects/MatrixMultiplication2/bin/Debug/net6.0/MatrixMultiplication2.pdb
+/Users/manishkumar/Projects/MatrixMultiplication2/obj/Debug/net6.0/MatrixMultiplication2.csproj.AssemblyReference.cache
+/Users/manishkumar/Projects/MatrixMultiplication2/obj/Debug/net6.0/MatrixMultiplication2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manishkumar/Projects/MatrixMultiplication2/obj/Debug/net6.0/MatrixMultiplication2.AssemblyInfoInputs.cache
+/Users/manishkumar/Projects/MatrixMultiplication2/obj/Debug/net6.0/MatrixMultiplication2.AssemblyInfo.cs
+/Users/manishkumar/Projects/MatrixMultiplication2/obj/Debug/net6.0/MatrixMultiplication2.csproj.CoreCompileInputs.cache
+/Users/manishkumar/Projects/MatrixMultiplication2/obj/Debug/net6.0/MatrixMultiplication2.dll
+/Users/manishkumar/Projects/MatrixMultiplication2/obj/Debug/net6.0/refint/MatrixMultiplication2.dll
+/Users/manishkumar/Projects/MatrixMultiplication2/obj/Debug/net6.0/MatrixMultiplication2.pdb
+/Users/manishkumar/Projects/MatrixMultiplication2/obj/Debug/net6.0/MatrixMultiplication2.genruntimeconfig.cache
+/Users/manishkumar/Projects/MatrixMultiplication2/obj/Debug/net6.0/ref/MatrixMultiplication2.dll
